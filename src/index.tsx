@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import 'bulma/css/bulma.min.css';
+import './custom-styling/custom-styles.css'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
